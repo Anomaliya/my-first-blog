@@ -25,7 +25,7 @@ SECRET_KEY = '0*=ttbon_r=ymipu2v=+8qadr18aep5l9ys)(0lo8a26lm=d1$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['anomaliya.pythonanywhere.com',]
 
 
 # Application definition
